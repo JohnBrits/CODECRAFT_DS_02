@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) on Mobile Dataset
+# Exploratory Data Analysis  on Mobile Dataset
 
 Overview
 
